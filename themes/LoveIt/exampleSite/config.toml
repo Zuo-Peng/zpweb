@@ -46,10 +46,10 @@ enableEmoji = true
 
 # Author config
 # 作者配置
-[author]
-  name = "xxxx"
-  email = ""
-  link = ""
+# [author]
+#  name = "zpzpzppz"
+#  email = ""
+#  link = ""
 
 # Menu config
 # 菜单配置
@@ -86,6 +86,12 @@ enableEmoji = true
     title = ""
 
 [params]
+  # 设置作者的信息
+  [params.author]
+    name = "zpzpzp"
+    email = ""
+    link = ""
+
   # site default theme ["auto", "light", "dark"]
   # 网站默认主题 ["auto", "light", "dark"]
   defaultTheme = "auto"
@@ -739,7 +745,7 @@ enableEmoji = true
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomy = ["HTML"]
+#  taxonomy = ["HTML"]
 
 # Multilingual
 # 多语言
