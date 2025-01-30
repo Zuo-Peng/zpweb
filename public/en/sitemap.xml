@@ -2,237 +2,237 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/en/theme-documentation-basics/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-basics/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-basics/"
+                        href="https://example.com/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-basics/"
+                    href="https://example.com/en/theme-documentation-basics/"
                     /></url><url>
-            <loc>/en/theme-documentation-content/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-content/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-content/"
+                        href="https://example.com/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-content/"
+                    href="https://example.com/en/theme-documentation-content/"
                     /></url><url>
-            <loc>/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-built-in-shortcodes/"
+                        href="https://example.com/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-built-in-shortcodes/"
+                    href="https://example.com/en/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>/en/theme-documentation-extended-shortcodes/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-extended-shortcodes/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-extended-shortcodes/"
+                        href="https://example.com/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-extended-shortcodes/"
+                    href="https://example.com/en/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>/en/basic-markdown-syntax/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/basic-markdown-syntax/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/basic-markdown-syntax/"
+                        href="https://example.com/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/basic-markdown-syntax/"
+                    href="https://example.com/en/basic-markdown-syntax/"
                     /></url><url>
-            <loc>/en/theme-documentation-mermaid-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-mermaid-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-mermaid-shortcode/"
+                        href="https://example.com/theme-documentation-mermaid-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-mermaid-shortcode/"
+                    href="https://example.com/en/theme-documentation-mermaid-shortcode/"
                     /></url><url>
-            <loc>/en/emoji-support/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/emoji-support/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/emoji-support/"
+                        href="https://example.com/emoji-support/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/emoji-support/"
+                    href="https://example.com/en/emoji-support/"
                     /></url><url>
-            <loc>/en/theme-documentation-echarts-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-echarts-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-echarts-shortcode/"
+                        href="https://example.com/theme-documentation-echarts-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-echarts-shortcode/"
+                    href="https://example.com/en/theme-documentation-echarts-shortcode/"
                     /></url><url>
-            <loc>/en/theme-documentation-mapbox-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-mapbox-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-mapbox-shortcode/"
+                        href="https://example.com/theme-documentation-mapbox-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-mapbox-shortcode/"
+                    href="https://example.com/en/theme-documentation-mapbox-shortcode/"
                     /></url><url>
-            <loc>/en/theme-documentation-music-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-music-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-music-shortcode/"
+                        href="https://example.com/theme-documentation-music-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-music-shortcode/"
+                    href="https://example.com/en/theme-documentation-music-shortcode/"
                     /></url><url>
-            <loc>/en/theme-documentation-bilibili-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-bilibili-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-bilibili-shortcode/"
+                        href="https://example.com/theme-documentation-bilibili-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-bilibili-shortcode/"
+                    href="https://example.com/en/theme-documentation-bilibili-shortcode/"
                     /></url><url>
-            <loc>/en/theme-documentation-typeit-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/theme-documentation-typeit-shortcode/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/theme-documentation-typeit-shortcode/"
+                        href="https://example.com/theme-documentation-typeit-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/theme-documentation-typeit-shortcode/"
+                    href="https://example.com/en/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>/en/categories/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/categories/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/categories/"
+                        href="https://example.com/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/categories/"
+                    href="https://example.com/en/categories/"
                     /></url><url>
-            <loc>/en/tags/configuration/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/configuration/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/configuration/"
+                        href="https://example.com/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/configuration/"
+                    href="https://example.com/en/tags/configuration/"
                     /></url><url>
-            <loc>/en/tags/installation/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/installation/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/installation/"
+                        href="https://example.com/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/installation/"
+                    href="https://example.com/en/tags/installation/"
                     /></url><url>
-            <loc>/en/posts/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/posts/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/posts/"
+                        href="https://example.com/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/posts/"
+                    href="https://example.com/en/posts/"
                     /></url><url>
-            <loc>/en/tags/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/"
+                        href="https://example.com/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/"
+                    href="https://example.com/en/tags/"
                     /></url><url>
-            <loc>/en/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/"
+                        href="https://example.com/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/"
+                    href="https://example.com/en/"
                     /></url><url>
-            <loc>/en/tags/content/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/content/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/content/"
+                        href="https://example.com/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/content/"
+                    href="https://example.com/en/tags/content/"
                     /></url><url>
-            <loc>/en/tags/markdown/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/markdown/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/markdown/"
+                        href="https://example.com/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/markdown/"
+                    href="https://example.com/en/tags/markdown/"
                     /></url><url>
-            <loc>/en/tags/shortcodes/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/shortcodes/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/shortcodes/"
+                        href="https://example.com/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/shortcodes/"
+                    href="https://example.com/en/tags/shortcodes/"
                     /></url><url>
-            <loc>/en/tags/html/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/html/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/html/"
+                        href="https://example.com/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/html/"
+                    href="https://example.com/en/tags/html/"
                     /></url><url>
-            <loc>/en/categories/markdown/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/categories/markdown/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/categories/markdown/"
+                        href="https://example.com/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/categories/markdown/"
+                    href="https://example.com/en/categories/markdown/"
                     /></url><url>
-            <loc>/en/tags/emoji/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/emoji/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/tags/emoji/"
+                        href="https://example.com/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/tags/emoji/"
+                    href="https://example.com/en/tags/emoji/"
                     /></url><url>
-            <loc>/en/about/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/about/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/about/"
+                        href="https://example.com/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/about/"
+                    href="https://example.com/en/about/"
                     /></url><url>
-            <loc>/en/categories/documentation/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/categories/documentation/</loc><lastmod>2025-01-30T22:20:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/categories/documentation/"
+                        href="https://example.com/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/en/categories/documentation/"
+                    href="https://example.com/en/categories/documentation/"
                     /></url></urlset>
