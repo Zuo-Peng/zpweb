@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+base.URL = "https://example.com"
 
 # theme
 # 主题
