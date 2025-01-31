@@ -3,7 +3,7 @@
         <title>所有文章 - zp最帅</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | zp最帅</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>主题文档 - 基本概念</title>
     <link>http://localhost:1313/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -44,6 +44,17 @@
     <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
 </item>
 <item>
+    <title>第一篇我的个人文章</title>
+    <link>http://localhost:1313/first/</link>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate>
+    <author>ZuoPeng</author>
+    <guid>http://localhost:1313/first/</guid>
+    <description><![CDATA[<h2 id="我的记录">我的记录</h2>
+<p>这是我新开的网站</p>
+<h2 id="我的什么记录">我的什么记录</h2>
+<p>记录</p>]]></description>
+</item>
+<item>
     <title>主题文档 - mermaid Shortcode</title>
     <link>http://localhost:1313/theme-documentation-mermaid-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 15:29:59 &#43;0800</pubDate>
@@ -79,16 +90,6 @@
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer">Mapbox GL JS</a>
  库提供互动式地图的功能.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - music Shortcode</title>
-    <link>http://localhost:1313/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer">APlayer</a>
- 和 <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer">MetingJS</a>
- 库提供了一个内嵌的响应式音乐播放器.</p>]]></description>
 </item>
 </channel>
 </rss>
