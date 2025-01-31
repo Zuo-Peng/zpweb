@@ -23,4 +23,4 @@ lightgallery: true
 这是我新开的网站
 
 ## 我的什么记录
-记录
+记录wodeugho
